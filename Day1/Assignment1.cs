@@ -7,9 +7,6 @@ namespace AdventOfCode2019.Day1
 {
     public class Assignment1
     {
-        public Assignment1()
-        {
-        }
 
         private static int totalFuelNeeded = 0;
 
